@@ -1,0 +1,21 @@
+{
+  "name": "js-project9-mathfunctions",
+  "version": "1.0.0",
+  "description": "The task is to make file math.js to import all the functions and put them outside (export them) under the following names: pow, sum, sub, sqrt and multi; and also export the function cube() as default.",
+  "main": "calculation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pashokman/JS-project9-mathFunctions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pashokman/JS-project9-mathFunctions/issues"
+  },
+  "homepage": "https://github.com/pashokman/JS-project9-mathFunctions#readme",
+  "type": "module"
+}

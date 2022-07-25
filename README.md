@@ -1,0 +1,1 @@
+The task is to make file math.js to import all the functions and put them outside (export them in calculations.js) under the following names: pow, sum, sub, sqrt and multi; and also export the function cube() as default.
