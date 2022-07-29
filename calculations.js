@@ -5,7 +5,7 @@ console.log('\npow');
 console.log(mathematics.pow(3, 0));     //1
 console.log(mathematics.pow(3, 1));     //3
 console.log(mathematics.pow(3, 4));     //81
-console.log(mathematics.pow(3, -5));    //0.00411522633
+console.log(mathematics.pow(3, -5));    //0.00411522633...
 
 console.log('\nsum');
 console.log(mathematics.sum(3, -5));    //-2
